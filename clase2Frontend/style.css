@@ -1,0 +1,19 @@
+.tituloVerde{
+    color: green;
+}
+
+.tituloAzul{
+    color: blue;
+}
+
+.parrafoAmarillo{
+    color: yellow;
+}
+
+.parrafoMarron{
+    color: brown;
+}
+
+#parrafoH3{
+    font-size: 35px;
+}

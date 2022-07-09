@@ -21,7 +21,7 @@
 .cuerpo{
     width: auto;
     height: 50%;
-    background-color: aquamarine;
+    
     text-align: right;
 
 }
@@ -42,13 +42,18 @@
     background-color: blue;
     width: 25%;
     height: 30%;  
+    margin-right: 40px;
+    padding-left: 10px;
     
  }
 
 
 h1{
-    font-size: 12px;
+    font-size: 20px;
     color: white;
+ }
+ .h1negro{
+    color: black;
  }
 
 .horizontal{
@@ -64,3 +69,97 @@ h1{
 .nombrePie{
     height: 100%;
 }
+
+.encabezadoEspacio{
+    justify-content: space-between;
+    align-items: center;
+    height: 50%;
+    
+    
+}
+
+.divMenu{
+    background-color: rgb(0, 255, 21);
+    width: 40%;  
+    margin-right: 15px;
+    padding-left: 25px;
+    display: flex;
+    
+ }
+
+.divMenu2{
+    background-color: rgb(110, 85, 30);
+    width: 60%;  
+    margin-right: 15px;
+    display: flex;
+    padding-left: 10px;
+    
+ }
+.divLogo{
+    display: flex;
+    background-color: rgb(20, 20, 95);
+    width: 20%;  
+    margin-left: 15px;
+    padding-left: 10px;
+ }
+.divEncabezado{
+    
+    width: 20%;  
+    margin-left: 15px;
+    display: flex;
+    
+ }
+.cuerpoArriba{
+    justify-content: space-between;
+    height: 100%;
+    margin-top: 5px;
+    margin-bottom: 15px;
+
+}
+.divs{
+    width: 30%;
+    height: 100%;
+}
+
+.divs2{
+    width: 65%;
+    height: 100%;
+}
+.centro{
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.divs2d{
+    margin-left: 15px;
+}
+
+.divIzq{
+    background-color: rgb(64, 65, 66);
+     
+    
+    display: flex;
+    
+ }
+
+.divCentro{
+    background-color: rgb(112, 222, 226);
+    
+    display: flex;
+    
+    
+    
+ }
+.divDerecha{
+    display: flex;
+    background-color: rgb(240, 189, 81);  
+ }
+
+ .divIzq2{
+    display: flex;
+    background-color: rgb(34, 87, 34);  
+ }
+ .divDer2{
+    display: flex;
+    background-color: rgb(82, 60, 14);  
+ }

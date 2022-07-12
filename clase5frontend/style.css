@@ -63,6 +63,15 @@ h1{
 .divDerecha2{
     background-color: brown;
 }
+.divElemento{
+    margin-top: 35px;
+    background-color: blue;
+}
 .bloque{
-    height: 50%;
+    height: 47%;
+}
+
+.pie{
+    background-color: aquamarine;
+    height: 100px;
 }

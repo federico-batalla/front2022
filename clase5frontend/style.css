@@ -1,0 +1,36 @@
+.caja{
+    border: 3px solid;
+}
+
+.cabezera{
+    height: 150px;
+    
+    
+}
+
+   
+
+.fila{
+    margin: auto;
+    margin-top: 20px;
+
+}
+
+.divMenu{
+    background-color: greenyellow;
+}
+.divLogo{
+    background-color: blue;
+}
+.divMenu2{
+    background-color: brown;
+}
+
+h1{
+    font-size: 20px;
+    color: white;
+}
+
+.h1negro{
+    color: black;
+}

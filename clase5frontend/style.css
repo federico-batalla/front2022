@@ -3,16 +3,28 @@
 }
 
 .cabezera{
-    height: 150px;
+    height: 100px;
+    background-color: grey;
     
     
+}
+.cuerpo{
+    height: 400px;
 }
 
    
 
 .fila{
-    margin: auto;
-    margin-top: 20px;
+    
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.fila2{
+    
+    margin-top: 10px;
+    
 
 }
 
@@ -33,4 +45,24 @@ h1{
 
 .h1negro{
     color: black;
+}
+.divIzquierda{
+    background-color: rgb(66, 66, 66);
+}
+.divCentro{
+    background-color: rgb(121, 230, 202);
+}
+.divDerecha{
+    background-color: rgb(238, 191, 120);
+
+}
+.divIzquierda2{
+    background-color: rgb(62, 97, 9);
+}
+
+.divDerecha2{
+    background-color: brown;
+}
+.bloque{
+    height: 50%;
 }

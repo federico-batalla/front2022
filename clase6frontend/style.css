@@ -1,0 +1,104 @@
+.caja{
+    border: 3px solid;
+}
+
+.cabezera{
+    height: 100px;
+    background-color: grey;
+    
+    
+}
+.cuerpo{
+    height: 400px;
+}
+
+   
+
+.fila{
+    
+    margin-top: 10px;
+    margin-left: 5px;
+    margin-right: 5px;
+
+}
+.fila2{
+    
+    margin-top: 10px;
+    
+
+}
+
+.divMenu{
+    background-color: greenyellow;
+}
+.divLogo{
+    background-color: blue;
+}
+.divMenu2{
+    background-color: brown;
+}
+
+h1{
+    font-size: 20px;
+    color: white;
+}
+
+.h1negro{
+    color: black;
+}
+.divIzquierda{
+    background-color: rgb(66, 66, 66);
+}
+.divCentro{
+    background-color: rgb(121, 230, 202);
+}
+.divDerecha{
+    background-color: rgb(238, 191, 120);
+
+}
+.divIzquierda2{
+    background-color: rgb(62, 97, 9);
+}
+
+.divDerecha2{
+    background-color: brown;
+}
+.divElemento{
+    margin-top: 35px;
+    background-color: blue;
+}
+.bloque{
+    height: 47%;
+}
+
+.pie{
+    background-color: aquamarine;
+    height: 100px;
+}
+
+
+@media only screen and (min-width:660px){ 
+
+
+    .divIzquierda{
+        background-color: rgb(116, 34, 34);
+    }
+    .divCentro{
+        background-color: rgb(14, 66, 53);
+    }
+    .divDerecha{
+        background-color: rgb(129, 114, 90);
+    
+    }
+    .divIzquierda2{
+        background-color: rgb(153, 197, 88);
+    }
+    .cuerpo{
+        display: flex;
+        flex-direction: row;
+    }
+    
+    
+
+
+}
